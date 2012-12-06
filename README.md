@@ -12,9 +12,10 @@ project.
 Quickstart
 ----------
 Not exposed as a gem you can use so
-# Clone the repo
-# Run bundle install
-# Enjoy!
+
+1. Clone the repo
+2. Run bundle install
+3. Enjoy!
 
 Running
 -------
