@@ -10,17 +10,17 @@ to be output in a way consumable by nagios. That is what you get with this skele
 project.
 
 Quickstart
-==========
+----------
 Not exposed as a gem you can use so
-1. Clone the repo
-2. Run bundle install
-3. Enjoy!
+# Clone the repo
+# Run bundle install
+# Enjoy!
 
 Running
-=======
+-------
 Invoke your cucumber feature with 'bundle exec cucumber'
 
-  bundle exec cucumber features/nagios.feature --format Cucumber::Formatter::Nagios
+    bundle exec cucumber features/nagios.feature --format Cucumber::Formatter::Nagios
 
 
 
